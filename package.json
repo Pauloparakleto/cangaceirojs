@@ -1,0 +1,14 @@
+{
+  "name": "cangaceirojs",
+  "version": "1.0.0",
+  "description": "Group of minimal modules alternative for single page application and react framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jspec"
+  },
+  "keywords": [
+    "cangaceirojs"
+  ],
+  "author": "Paulo Felipe Souza",
+  "license": "MIT"
+}
